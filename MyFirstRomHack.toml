@@ -7170,8 +7170,8 @@ Destination = '''data.items.stats'''
 
 [[GotoShortcut]]
 Name = '''Maps'''
-Image = '''data.maps.banks/43/maps/80/map/0/layout/0/blockmap/'''
-Destination = '''maps.bank43.Route 10.43-80'''
+Image = '''data.maps.banks/1/maps/44/map/0/layout/0/blockmap/'''
+Destination = '''maps.bank1.Rocket Hideout.1-44'''
 
 #################################
 [[TableGroup]]

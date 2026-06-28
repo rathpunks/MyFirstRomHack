@@ -3,3 +3,12 @@ The .toml is if you would like to edit in Hex maniac advance. Ensure the .toml i
 To patch ensure you have a 32MB fire red squirrels. To expand from 16MB to 32MB there are a few ways, easiest might be using Hex Maniac Advance and loading the 16MB rom then selecting expand in the top 'Utilities' menue and type 1FFFFFF. This should now show as a 32MB file.
 Go to a pach website and selet the 32MB file for base rom, and one of the patch files from the zip and click patch. This should succesfully patch and you will be free to play.
 Note this is a beta, and I am not very good at codeing or art, so there will likely be issues. Feel free to edit with the toml how you see fit. I would greatly appreciate if someone changed the overworld tileset to look cooler, I can't seem to get it to work.
+Known Issues include:
+1) PokeCenter Map crashes the game. Regular town map in bad works, fly maps work, but PokeCenter Map Crashes the game.
+2) Some Characters Names don't show porperly in battle.
+3) Flying with follower mon out will lead to endless loop if you don't enter the PokeCenter first.
+   If using Follower mon, when  after using fly, enter the Pokecenter first to stop endless loop.
+4) Going up the Escalator in the PokeCenter causes endless loop.
+
+
+To get the most out of the game make sure to speak to all NPC's and read bookshelfs for Lore information, Items, and battles.

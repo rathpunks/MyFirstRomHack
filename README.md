@@ -4,11 +4,15 @@ To patch ensure you have a 32MB fire red squirrels. To expand from 16MB to 32MB 
 Go to a pach website and selet the 32MB file for base rom, and one of the patch files from the zip and click patch. This should succesfully patch and you will be free to play.
 Note this is a beta, and I am not very good at codeing or art, so there will likely be issues. Feel free to edit with the toml how you see fit. I would greatly appreciate if someone changed the overworld tileset to look cooler, I can't seem to get it to work.
 Known Issues include:
-1) PokeCenter Map crashes the game. Regular town map in bad works, fly maps work, but PokeCenter Map Crashes the game.
+1) PokeCenter Map crashes the game. Regular town map in bad works, fly maps work, but PokeCenter Map Crashes the game. (no need to check map as you have town map in bag and fly map on Pokemon)
 2) Some Characters Names don't show porperly in battle.
-3) Flying with follower mon out will lead to endless loop if you don't enter the PokeCenter first.
+3) Flying with follower mon out will lead to endless loop if you don't enter the PokeCenter first. 
    If using Follower mon, when  after using fly, enter the Pokecenter first to stop endless loop.
-4) Going up the Escalator in the PokeCenter causes endless loop.
+   If this becomes an issue you can speak with the girl in Pallet town to remove followermon.
+5) Going up the Escalator in the PokeCenter causes endless loop. (no need to go here)
 
 
 To get the most out of the game make sure to speak to all NPC's and read bookshelfs for Lore information, Items, and battles.
+
+There are areas that have the end point, but who's maps arn't completed. For example, you can Dive and catch Kyogre, however its currently just a big water square. So the game and post game are completed, but not every zone is 'Nice looking'. I may get around to completeing it, I may not, It has taken years of learning and restarting to get here as I am just 1 guy, so we will se how it goes.
+Currently full playthrough testing myself for the first time while in hospital for the next week, will update as I go if I find game breaking issues.

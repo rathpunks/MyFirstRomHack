@@ -12,6 +12,8 @@ Known Issues include:
 5) Going up the Escalator in the PokeCenter causes endless loop. (no need to go here)
 
 
+You will notice a Lady in the corner of Oak's Lab. If you wish to play the game properly, do not talk with her. She was used for testing purposes, some of her code no longer works and causes glitches or crashes. If you wish to only face the challenge areana, you can use 'Set Flag', 'Give custom Pokemon' Give custom Item', 'Give useful items/general items' and 'lvl 100 team' The Pokemon and Items relate to the species and items files. You will need t convert the hex numbers to decimal.
+
 To get the most out of the game make sure to speak to all NPC's and read bookshelfs for Lore information, Items, and battles.
 
 There are areas that have the end point, but who's maps arn't completed. For example, you can Dive and catch Kyogre, however its currently just a big water square. So the game and post game are completed, but not every zone is 'Nice looking'. I may get around to completeing it, I may not, It has taken years of learning and restarting to get here as I am just 1 guy, so we will se how it goes.

@@ -27,13 +27,14 @@ You will notice a Lady in the corner of Oak's Lab. If you wish to play the game 
 If you are playing just to interact, play and test the champion stadium, you can unlock certain flags to enable lvl 100 Pokemon use and all the characters required to compete in each champion stadium. Speaking to the lady in the corner of Oak's Lab you can set these Flags and then you can travel to champion stadium. 
 First you can speak to the lady and select game clear, then select custom flags to set.
 Flags as follows:
+0x024E
 0x2D5
 0x0B2
 0x0BF
 0x0CO
 0x0C1
 0x0C5
-This will enable you to Level Pokemon to level 100 and hae them listen to you, also will act as though you have found and defeated the special trainers to allow you to face all challenges (Just need to complete some gauntlets to unlock other harder challenges).
+This will enable you to Level Pokemon to level 100 and hae them listen to you, allow acess to move tutors, also will act as though you have found and defeated the special trainers to allow you to face all challenges (Just need to complete some gauntlets to unlock other harder challenges).
 
 @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
 To get the most out of the game make sure to speak to all NPC's and read bookshelfs for Lore information, Items, and battles.

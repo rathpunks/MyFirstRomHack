@@ -8,6 +8,7 @@ Go to a pach website and selet the 32MB file for base rom, and one of the patch 
 
 Note this is a beta, and I am not very good at codeing or art, so there will likely be issues. Feel free to edit with the toml how you see fit. I would greatly appreciate if someone changed the overworld tileset to look cooler, I can't seem to get it to work.
 @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+
 Challenge Stadium:
 ---------------------
 To the Left of Viridian City is where you find the Challenge stadium. There is a Man in the middle you can speak to to start a Black and White 2 World championships style battle.
@@ -18,6 +19,7 @@ In this same area is a cave entrace, you can go through here to take you to the 
 
 There is an area on Island 3 that will have all the move tutor moves (excluding some unique ones).
 @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+
 Debug and Challenge:
 -----------------------
 You will notice a Lady in the corner of Oak's Lab. If you wish to play the game properly, do not talk with her. She was used for testing purposes, some of her code no longer works and causes glitches or crashes. If you wish to only face the challenge areana, you can use 'Set Flag', 'Give custom Pokemon' Give custom Item', 'Give useful items/general items' and 'lvl 100 team' The Pokemon and Items relate to the species and items files. You will need t convert the hex numbers to decimal.
@@ -38,8 +40,8 @@ To get the most out of the game make sure to speak to all NPC's and read bookshe
 
 There are areas that have the end point, but who's maps arn't completed. For example, you can Dive and catch Kyogre, however its currently just a big water square. So the game and post game are completed, but not every zone is 'Nice looking'. I may get around to completeing it, I may not, It has taken years of learning and restarting to get here as I am just 1 guy, so we will se how it goes.
 Currently full playthrough testing myself for the first time and will update as I go if I find game breaking issues.
-
 @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+
 Known Issues include:
 -------------------------
 1) Some Characters names don't show porperly in battle.

@@ -40,7 +40,7 @@ To get the most out of the game make sure to speak to all NPC's and read bookshe
 
 There are areas that have the end point, but who's maps arn't completed. For example, you can Dive and catch Kyogre, however its currently just a big water square. So the game and post game are completed, but not every zone is 'Nice looking'. I may get around to completeing it, I may not, It has taken years of learning and restarting to get here as I am just 1 guy, so we will se how it goes.
 Currently full playthrough testing myself for the first time and will update as I go if I find game breaking issues.
-@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
 
 Known Issues include:
 -------------------------

@@ -11,6 +11,8 @@ Go to a pach website (I use https://www.marcrobledo.com/RomPatcher.js/) and sele
 
 @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
 
+Updated to fully tested postgame as of 01-08-2026
+
 Note this is a beta, and I am not very good at codeing or art, so there will likely be issues. Feel free to edit with the toml how you see fit. I would greatly appreciate if someone changed the overworld tileset to look cooler, I can't seem to get it to work.
 @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
 
